@@ -21,8 +21,8 @@ npm install
 ###### To develop further:
 
 `npm run serve` spins up the development server<br />
-`npm run build:dev` builds the various project files locally (uncompressed)
-`npm run build:prod` builds the various project files locally (compressed)
-`deploy:gh` build project and deploy to GitHub (gh-pages branch must be available)
+`npm run build:dev` builds the various project files locally (uncompressed)<br />
+`npm run build:prod` builds the various project files locally (compressed)<br />
+`deploy:gh` build project and deploy to GitHub (gh-pages branch must be available)<br />
 
 A life example of the project can be viewed [here](https://rscheffers82.github.io/webpack-exploration2/dist).
