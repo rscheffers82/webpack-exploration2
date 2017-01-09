@@ -25,4 +25,4 @@ npm install
 `npm run build:prod` builds the various project files locally (compressed)<br />
 `deploy:gh` build project and deploy to GitHub (gh-pages branch must be available)<br />
 
-A life example of the project can be viewed [here](https://rscheffers82.github.io/webpack-exploration2/dist).
+A live example of the project can be viewed [here](https://rscheffers82.github.io/webpack-exploration2/dist).
